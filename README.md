@@ -4,20 +4,20 @@
 
 ### Full-Stack Developer
 
-Building modern, scalable, and maintainable web applications
-with a strong focus on clean architecture and real-world solutions.
+Building scalable web applications and RESTful APIs with a strong focus on
+clean architecture, maintainability, performance, and practical solutions.
 
-<p>
-  <a href="https://www.linkedin.com/in/youssef-ashry-b80310290">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://youssef-ashry-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:youssefashry17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br />
+
+<a href="https://www.linkedin.com/in/youssef-ashry-b80310290">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://youssef-ashry-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="mailto:youssefashry17@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -25,37 +25,46 @@ with a strong focus on clean architecture and real-world solutions.
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** and a **Computer Science student** who enjoys
-designing and building complete web applications from the ground up.
+I'm a **Full-Stack Developer** with hands-on experience building scalable
+web applications and RESTful APIs using the **MEAN Stack and Laravel**.
 
-My experience spans both frontend and backend development, including
-responsive user interfaces, RESTful APIs, authentication systems,
-database design, and scalable application architecture.
+I work across both frontend and backend development, with experience in
+authentication, authorization, database operations, API integration,
+and MVC-based architectures.
 
-I'm passionate about writing clean, maintainable code and continuously
-improving my software engineering skills by building real-world products.
+I'm focused on writing clean, maintainable code and building practical
+end-to-end solutions with modern web technologies.
 
-🎓 **BSc in Computer Science — Suez Canal University**
+🎓 **BSc in Computer & Information Sciences — Shorouk Academy**  
+📍 Cairo, Egypt
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,ts,python,mysql" />
+</p>
+
+**PHP · JavaScript · TypeScript · Python · SQL**
+
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap,tailwind" />
 </p>
 
-**React.js · Angular · JavaScript · TypeScript · HTML5 · CSS3 · Tailwind CSS · Bootstrap**
+**React · Angular · React Router · HTML5 · CSS3 · Bootstrap · Tailwind CSS**
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel" />
 </p>
 
-**Node.js · Express.js · NestJS · Laravel · PHP**
+**Laravel · Node.js · Express.js · NestJS**
 
 ### Databases
 
@@ -63,78 +72,154 @@ improving my software engineering skills by building real-world products.
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
-**MongoDB · MySQL · PostgreSQL**
+**MySQL · MongoDB · Mongoose · Microsoft SQL Server · Prisma**
 
-### APIs, Authentication & Architecture
+### APIs & Architecture
 
-**RESTful APIs · JWT Authentication · Authorization · MVC ·
-Layered Architecture · Prisma ORM**
+**RESTful APIs · JWT Authentication · MVC · Component-Based Architecture ·
+CRUD · API Integration**
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,npm" />
 </p>
 
-**Git · GitHub · Docker · Postman · VS Code**
+**Git · GitHub · VS Code · Postman · npm · Docker**
 
 ---
 
 ## 💼 Experience
 
-### Front-End Intern — Digital Egypt Pioneers Initiative (DEPI)
+### Web Development using React JS Trainee — ITI
+**Jul 2026 – Aug 2026 · Cairo**
 
-Worked on modern frontend development and gained practical experience
-building responsive web interfaces and integrating applications with APIs.
+- Developed responsive single-page applications using React.js and modern JavaScript (ES6+).
+- Built reusable components and implemented client-side routing using React Router.
+- Implemented form validation, React Hooks, Context API, custom hooks, and API integration.
+- Applied component-based architecture and responsive UI development using Bootstrap, HTML5, and CSS3.
 
-### ITI — React JS Training
+### MEAN Stack Web Development Trainee — NTI
+**Aug 2025 – Sep 2025 · Cairo**
 
-Hands-on training focused on React.js development, modern JavaScript,
-TypeScript, reusable components, API integration, and building
-responsive web applications.
+- Led a team of 4 developers in building a multi-vendor e-commerce application using MongoDB, Express.js, Angular, and Node.js.
+- Designed and implemented RESTful APIs, authentication, and authorization functionality.
+- Managed application data using MongoDB and Mongoose.
+- Collaborated through Git and GitHub.
+
+### PHP Laravel Trainee — ITI
+**Feb 2025 – Mar 2025 · Cairo**
+
+- Developed backend applications using PHP, Laravel, and MySQL following MVC architecture.
+- Built and integrated RESTful APIs, authentication modules, and database operations.
+- Applied database design and optimization techniques to improve performance and maintainability.
+
+### IT & Data Analysis Trainee — Maxim Food
+**Jun 2024 – Sep 2024 · Cairo**
+
+- Gained hands-on experience in IT Help Desk, IT Support, and Data Analysis.
+- Assisted with troubleshooting technical issues and providing day-to-day IT support.
+- Performed data analysis tasks including data organization, processing, and extracting meaningful insights.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🔷 Zyvero
+### 🛒 E-Commerce Platform — MEAN Stack
 
-A full-stack **SaaS platform foundation** built around workspace,
-project, task, and knowledge management.
+A multi-vendor marketplace application built using the MEAN Stack.
 
-The system provides a structured foundation for managing organizations
-and their work while following a modern frontend/backend architecture.
+**Highlights**
+- Led a team of 4 developers.
+- Implemented authentication and authorization.
+- Built product catalog, shopping cart, and checkout functionality.
+- Designed and integrated RESTful APIs using Express.js and Node.js.
+- Managed data using MongoDB and Mongoose.
+- Built responsive Angular interfaces with a focus on scalability, security, and clean architecture.
 
-#### Key Features
+**Technologies:** `MongoDB` · `Express.js` · `Angular` · `Node.js` · `Mongoose`
 
-- 🔐 JWT-based Authentication & Authorization
-- 🏢 Workspace Management
-- 📁 Project Management
-- ✅ Task Management
-- 📚 Project Knowledge Management
-- 🧠 Workspace Knowledge Management
-- 🔒 Protected Routes & Resources
-- 🔄 RESTful API Architecture
-- 🗄️ PostgreSQL Database
-- 🧩 Prisma ORM
-- 🏗️ Structured Frontend & Backend Architecture
+---
 
-#### Technologies
+### ✈️ Smart Trip Planner — React & Supabase
 
-`TypeScript` · `React` · `Node.js` · `Express.js` ·
-`PostgreSQL` · `Prisma` · `JWT` · `REST APIs`
+A React-based travel planning application with dynamic itinerary
+management and multi-day trip creation.
+
+**Highlights**
+- Complete trip CRUD functionality.
+- Destination management and itinerary generation.
+- Persistent trip and contact data using Supabase.
+- English/Arabic localization with RTL support.
+- Light/Dark mode and responsive UI.
+- Destination auto-suggestions and dynamic content.
+- Contact form validation and responsive navigation.
+
+**Technologies:** `React` · `JavaScript` · `Supabase` · `React Bootstrap` · `CSS`
+
+---
+
+### 💻 Softivo Software Solutions — React & TypeScript
+
+A modern and responsive software solutions website built with
+React and TypeScript.
+
+**Highlights**
+- Reusable UI components.
+- Responsive layouts.
+- Clean component structure.
+- Modern UI focused on usability and user experience.
+
+**Technologies:** `React` · `TypeScript`
+
+---
+
+### 📝 Blog Platform — Laravel & MySQL
+
+A full-stack blog platform developed using Laravel and MySQL
+following the MVC architecture.
+
+**Highlights**
+- RESTful API integration.
+- Authentication.
+- Database operations using Eloquent ORM.
+- MVC-based application structure.
+
+**Technologies:** `PHP` · `Laravel` · `MySQL` · `Eloquent ORM`
+
+---
+
+## 📜 Certifications
+
+- **Web Development using React JS — ITI** · 2026  
+  144 Hours · React.js, JavaScript ES6+, HTML5, CSS3, Bootstrap, React Router, React Hooks, Context API, Custom Hooks, Validation & API Integration
+
+- **Node.js, Express, MongoDB & More: The Complete Bootcamp — Udemy** · 2026  
+  42 Hours · Node.js, Express.js, MongoDB, REST APIs, Authentication & Backend Development
+
+- **MEAN Stack Web Development — NTI** · 2025  
+  120 Hours · Score: 87.5% · MongoDB, Express.js, Angular, Node.js & RESTful APIs
+
+- **Backend Development & Database — ITI** · 2025  
+  60 Hours · PHP, Laravel, OOP, Data Structures, Algorithms, MVC, MySQL & RESTful APIs
+
+- **IT & Data Analysis Training — Maxim Foods** · 2024  
+  360 Hours · IT Help Desk, IT Support & Data Analysis
+
+- **Skills Development Program — Mashwary Project** · 2022  
+  Ministry of Youth and Sports & UNICEF Egypt
 
 ---
 
 ## 🌱 Currently Improving
 
-- Advanced Full-Stack Development
-- Backend Architecture
-- Scalable RESTful APIs
-- Database Design
+- Full-Stack Web Development
+- Backend Engineering
+- RESTful API Design
+- Database Design & Optimization
 - Software Architecture
 - Clean & Maintainable Code
-- Testing & Application Reliability
+- Scalable Web Applications
 
 ---
 
@@ -158,7 +243,7 @@ and their work while following a modern frontend/backend architecture.
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -171,10 +256,17 @@ and their work while following a modern frontend/backend architecture.
 
 ---
 
-## 🤝 Let's Connect
+## 🌐 Languages
 
-I'm always open to learning, collaborating, and working on
-interesting software projects.
+- 🇪🇬 Arabic — Native
+- 🇬🇧 English — Proficient
+
+---
+
+## 📫 Let's Connect
+
+I'm open to opportunities, collaborations, and interesting software
+projects where I can learn, contribute, and build impactful solutions.
 
 <div align="center">
 
@@ -190,7 +282,7 @@ interesting software projects.
 
 </div>
 
----
+<br />
 
 <div align="center">
 
